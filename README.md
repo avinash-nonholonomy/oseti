@@ -1,0 +1,2 @@
+# oseti
+Optical SETI project.
